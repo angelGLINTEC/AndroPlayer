@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">androidPlayer</string>
+    <string name="btnStr_REC">Reproducir</string>
+</resources>
